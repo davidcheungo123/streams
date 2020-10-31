@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "This is a stream as well",
+      "description": "HAHAHA",
+      "userId": "117124638982135053548",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component reused! version 2!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "description": "Yep",
+      "id": 7
+    },
+    {
+      "title": "SO gddddd",
+      "description": "HAHAHA",
+      "userId": "117124638982135053548",
+      "id": 8
+    },
+    {
+      "title": "gffghgfhfg",
+      "description": "gfhfghgfh",
+      "userId": null,
+      "id": 10
+    }
+  ]
+}
